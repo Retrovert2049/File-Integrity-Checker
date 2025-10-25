@@ -35,3 +35,5 @@ Shows detailed comparison with timestamps
 *OUTPUTS*:
 
 <img width="1370" height="265" alt="Image" src="https://github.com/user-attachments/assets/bc19c4eb-140b-4acd-994f-0d5c792d207b" />
+
+<img width="1372" height="267" alt="Image" src="https://github.com/user-attachments/assets/79240255-217b-4074-94cb-7b53a1126eb6" />
