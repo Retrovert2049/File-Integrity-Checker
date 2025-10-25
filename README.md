@@ -31,3 +31,7 @@ Maintains a history of file states
 Compares current file hash with stored baseline
 Detects if files have been modified
 Shows detailed comparison with timestamps
+
+*OUTPUTS*:
+
+<img width="1370" height="265" alt="Image" src="https://github.com/user-attachments/assets/bc19c4eb-140b-4acd-994f-0d5c792d207b" />
